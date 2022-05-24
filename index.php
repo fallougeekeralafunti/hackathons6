@@ -7,7 +7,7 @@
     <title>Hackathon S6</title>
 </head>
 <body>
-    <h1>Hackathon Semaine 6</h1>
+    <h1>Hackathon Semaine 6 | depuis la branc master</h1>
     <?= phpinfo(); ?>
 </body>
 </html>
